@@ -1,0 +1,215 @@
+
+
+If there is a demand of Size x, only Vehicles of Size x can cater to it.
+E.g If there is a demand of Size S1, only Vehicles of Size S1 can cater to it.
+
+S1 CARS CAN ONLY DO Size Bucket 1
+S2 CARS CAN ONLY DO Size Bucket 2
+S3 CARS CAN ONLY DO Size Bucket 3
+S4 CARS CAN ONLY DO Size Bucket 4
+
+PROPOSED SOLUTION
+While Fleet Onwers aspire to achieve Net-Zero Emissions As Soon as Possible, they also have to take
+into account Business Sustainability and the Increased Cost Associated with Achieving Net Zero Emissions.
+
+We Offer a Fleet DeCarbonization Software and Mobile App for Ground Transportation Owners to be able
+to schedule a DeCarbonization Routine to Enable them Achieve Net Zero Emissions.
+
+Using the Software,Existing Fleet Owners are able to select the level of Net Zero Emissions Reduction
+they can realistically achieve within a Decade or So.
+
+
+The Software allows the Fleet Owner to:
+1. Enter in the Years they Would Like to Plan for DeCarbonization of their Ground Fleet (1-10)
+2. Enter the Number of Cars they Would Have in their Ground Transportation for the Given Year
+3. Enter the Yearly Distance Demand for the Ground Fleet for Each Year
+4. Select the Range of Decarbnoiation they Would Felel Comfortable Implementing for the Given Years:
+ 			 0%  - Lowest Operation Cost & Lowest Emission Reduction
+  			100% - Highest Operation Cost & Highest Emission Reduction
+
+
+
+The Software displays for the Fleet Owner:
+1. The Required Cost to Achieve 0% Emission Reduction
+2. The Required Cost to Achieve 100% Emission Reduction
+3. The Required Cost to Achieve the Set Percentage Chosen By the Fleet Owner
+
+
+This Solution allows the Fleet Owner to see
+1. If they can realistically afford the Emission Reduction Threshold they have selected
+2. If they can cost-wise afford to select a higher Emission Reduction Threshold
+3. To know the cost associated with Maximum Emission Reduction for their Fleet
+
+The Software allows Fleet Owners to Optimize FLeet Emission Reduction for their Fleet
+Per Decade, taking into account:
+1. Cost
+2. Customer Demand and Satisfaction
+
+
+PAST EXPERIENCE WITH CUSTOMERS
+Olawuyi Racett Nigeria ltd. OX1 2JD, has worked on Optimizing Volume Measurements in the
+Oil and Gas Industry.
+We have Designed a Novel Innovative Method called PePVEAT that provides a technological
+replacement for the Manual Tank-Dip Methods used in the Oil and Gas Industry to perform
+Volume Measurements of Petroleum Products.
+
+
+TECHNOLOGY STAGE
+The Fleet Optimization Software owned by OLAWUYI RACETT NIGERIA LTD. OX1 2JD, is currently at
+the level TRL 3 Stage.
+This is because
+1. We Have Fully developed the Mathematical and Sofware Algorithm to Calculate and Display 
+the Maximum Emission Reduction and Cost, as well as the Minimum Emission Reduction and Cost for a User-Defined Number of Years, Fleet Size,
+and Distance Demand.
+
+
+TECHNOLOGY OVERVIEW
+
+Innovative Optimization Model & Algorithm
+
+DECARBONIZATION ANALYSIS PER DECADE
+For (N=1; N <= 10; N++):
+{
+   Car_Cost_Per_Year_for_Available_Cars = Car_Purchase_Cost + Insurance_Cost + Maintenance_Cost
+   Car_Operation_Cost_Demand_Per_Year_for_Available_Cars = Distance_Demand_Per_Year * Fuel_Consumption * Cost_Per_Unit_Fuel 
+   Car_CO2_Emission_Per_Year_for_Available_Cars = Distance_Demand_Per_Year * CO2_Emissions_Per_Unit_Fuel * 
+
+   Lowest_Car_Cost_Per_Year = Min(Car_Cost_Per_Year_for_Available_Cars + Car_Operation_Cost_Per_Year_for_Available_Cars)
+   Highest_Car_cost_Per_Year = Max(Car_Cost_Per_Year_for_Available_Cars + Car_Operation_Cost_Demand_Per_Year_for_Available_Cars)
+
+   Highest_Emission_Reduction_Per_Year = Min(Car_CO2_Emission_Per_Year_for_Available_Cars)
+   Lowest_Emission_Reduction_Per_Year = Max(Car_CO2_Emission_Per_Year_for_Available_Cars)
+
+   Lowest_DeCarbonization = Lowest_Emission_Reduction_Per_Year (0%)
+   Highest_DeCarbonization = Highest_Emission_Reduction_Per_Year (100%)
+
+   Fleet_Owner_DeCarbonization_Scale_Selection = x
+
+   Therefore,
+   Fleet_Owner_Car_Cost_Per_Year = (x/100) * Highest_Car_Cost_Per_Year
+   Fleet_Owner_Emission_Reduction_Per_Year = (x/100) * Highest_DeCarbonization
+
+}
+
+  ALGORITHMS TO BE LEVERAGED
+- LONG-TERM PLANING, ANALYSIS AND OPTIMIZATION (A DECADE AT A TIME)
+- LINEAR RELATIOSHIP BETWEEN COST OF DECARBONIZATION AND REDUCTION OF CARBON EMISSION
+- SELECTION OF OPTIMIZED DECARBONIZATION THRESHOLD USING A CUSTOM-DESIGNED DECARBONIZATION SCALE
+
+
+FACTORS IN CONSIDERATION FOR SOLUTION
+1. FLEET DATA FROM REPUTABLE SOURCES INCLUDING THE FOLLOWING:
+	A. A COMPREHENSIVE LIST OF THE TYPES AND SIZES OF VEHICLES IN FLEET
+	B. THE FUEL CONSUMPTOIN PER KM TRAVELLED FOR EACH VEHICLE
+	C. THE UNIT COST OF ALL DIFFERENT TYPES OF FUEL AVAILABLE 
+	D. THE CO2 EMISSION DATA FOR EACH TYPE OF FUEL AVAILABLE
+
+VISUALIZATION OF DASHBOARD
+1. FRONT PAGE OF THE DECARBONIZATION SOFTWARE BY OLAWUYI RACETT NIGERIA LTD
+OX1 2JD IS ALREADY DISPLAYED ON THE FRONT SCREEN HERE
+
+2. WE INTEND TO HAVE A DISPLAY OF THE RESULTS OF A FLEET DECARBONIZATIO ANALYSIS READY
+FOR SHELL HACKATHON 2024 USING THE DECARBNONIZATION SOFTWARE FOR THE SHORTLISTED CANDIDATE SECTION.
+
+
+NOVELTY
+
+DECARBONIZATION IS NOT NECESSARILY ASSOCIATED WITH REVENUE GENERATION.
+IN FACT, IT TENDS TO BE THE OPPOSITE IN THE SHORT RUN, AND SO PRODUCTS
+PRODUCED FOR DECARBONIZATION TEND TO NOT GENERATE INCOME OR REVENUE IN
+THE SHORT RUN.
+WHILE DECARBONIZATION PRODUCTS MAY HAVE A LOT OF MERIT IN TERMS OF
+TECHNICAL VALUE, THEY RARELY GENERATE PROFIT.
+BY PROVIDING A DECARBONIZATION SOFTWARE THAT IS CHEAP AND READILY 
+AVAILABLE, IT WOULD INSPIRE OPERATIONAL FLEETS TO GO THE EXTRA MILE
+AND SPEND A LITTLE MORE IN OPERATIONAL COSTS IN ORDER TO ACHIEVE
+AN INCREASE IN CARBON EMISSION REDUCTIONS.
+
+COMPETITORS AND MARKET SIZE
+- CURRENT/FUTURE COMPETITORS - NONE
+TOTAL ADDRESSABLE MARKET (TAM)
+SERVICEABLE ADDRESSBLE MARKET (SAM)
+SERVICEABLE OBTAINABLE MARKET (SOM)
+* GROUND FLEET TRANSPORTERS. THIS WILL INCLUDE CAR RENTAL AGENCIES
+  TAXI FLEETS, OIL AND GAS TANKERS TRANSPORTATION FLEETS, 
+  FLEETS OF METRO BUSES.
+
+EVERY OWNER OF A FLEET ON THE GROUND HAS NEED OF THE DECARBONIZATION 
+SOFTWARE TO HELP THEM PLAN FOR THE DECARBONIZATION ROUTE BEST FEASIBLE
+FOR HIS OR HER OWN COMPANY FLEET, AND TO ENCOURAGE THEM TO EXECUTE
+CARBON EMISSION REDUCTION ON THE GROUND.
+
+
+
+OUR SOFTWARE ENABLES LONG-TERM PLANING FOR DECARBONIZATION SCHEDULES BY
+OPERATIONAL FLEETS AND TRANSCENDS TO LONG-TERM COMMITTMENT TO DECARBONIZATION
+AND MEETING NET-ZERO EMISSIONS OPTIMIALLY IN THE LEAST AMOUNT OF TIME.
+
+
+
+
+INTELLECTUAL PROPERTY
+WE DO NOT YET HAVE A PATENT FOR THE DECARBONIZATION SOFTWARE,
+BUT AS WE FULLY DEVELOP IT IN COLLABORATION WITH SHELL, WE EXPECT AND HOPE
+THAT SHELL WOULD ASSIST US IN SECURING THE RIGHT PATENT FOR IT AS WE WORK 
+WITH THEM.
+
+
+Distance_Demand_Per_Year
+
+Sum B = 1-10 Lowest_Car_Cost_Per_Year = Car_Purchase_Cost + Insurance_Cost + Maintenance_Cost
+
+
+ Our Company Has a DeCarbonization Range that Spans from 0 to 100%
+  with 0% Resulting in Lowest DeCarbnoization Fleet Cost and Minimum Fleet Emission Reduction
+  while 100% Results in Highest DeCarbonization Flee Cost and Maximimum Fleet Emission Reduction.
+
+ they would l
+
+
+QUESTIONS
+1. How many cars can i buy each year? Is there a limit to it?
+Can I purchase more than 1 unit of the same Car ID E.g, 
+Can I purchase 3 BEV_S1_2023 in the year 2023 (at the beginning)?
+
+
+
+We want to and are designing a Fleet DeCarbonization Software that will allow 
+companies with Ground Transportation to:
+1. Enter in the Years they Would Like to Plan for DeCarbonization of their Ground Fleet
+2. Enter in the Yearly Demand for their Ground Transportation
+3. The Number of Cars they Would Have in their Ground Transportation for the Given Year
+4. Select the Range of Decarbnoi\ation they Would Felel Xomfortable Implementing for the Given Years.
+  Our Company Has a DeCarbonization Range that Spans from 0 to 100%
+  with 0% Resulting in Lowest DeCarbnoization Fleet Cost and Minimum Fleet Emission Reduction
+  while 100% Results in Highest DeCarbonization Flee Cost and Maximimum Fleet Emission Reduction.
+
+The Company Owner is free to choose any DeCarbonization Fleet Percentage between 0 and 100%.
+For Any Range Chosen by the DeCarbonizatio fleet Owner, the Software will provide
+the Yearly Cost of Running the Ground Transportation Fleet, and the Expected Fleet Emission
+Reduction 
+
+
+DRAWING
+     DECARBONIZATION SCALE
+0 |----|----|----|----|----| 100     BUTTON ON THE SIDE - OPTIMIZE FLEET
+            TEXTBOX
+     IN THE MIDDLE OF SCALE
+
+
+
+The Software displays for the Fleet Owner:
+1. The Required Cost to Achieve 0% Emission Reduction
+2. The Required Cost to Achieve 100% Emission Reduction
+3. The Required Cost to Achieve the Set Percentage Chosen By the Fleet Owner
+
+
+This Solution allows the Fleet Owner to see
+1. If they can realistically afford the Emission Reduction Threshold they have selected
+2. If they can cost-wise afford to select a higher Emission Reduction Threshold
+3. To know the cost associated with Maximum Emission Reduction for their Fleet
+
+The Software allows Fleet Owners to Optimize FLeet Emission Reduction for their Fleet
+Per Decade, taking into account:
+1. Cost
+2. Customer Demand and Satisfaction
