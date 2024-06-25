@@ -1,2 +1,79 @@
 # SHELL-AI-2024-HACKATHON
 AI SHELL HACKATHON FOR OLAWUYI OX1 2JD
+This is the Hackathon Conducted by OLAWUYI RACETT NIGERIA LTD., WELLINGTON SQUARE, OXFORD, OX1 2JD, LONDON, UNITED KINGDOM RC14668218.
+The following People Participated in the Hackathon by OLAWUYI RACETT NIGERIA LTD., WELLINGTON SQUARE, OXFORD, OX1 2JD, LONDON, UNITED KINGDOM RC14668218
+
+
+1. Dr. Michael Olawuyi (C.E.O.1) & Dr. Esther Olawuyi (C.E.O.2)
+2. Dr. Matthew Olawuyi
+3. Engineer Francis Olawuyi
+4. Joseph Olawuyi
+5. Joshua Olawuyi
+6. Deborah Olawuyi
+7. Sunday Damilola Olawuyi
+8. Engineer Enoch Ejofodomi
+9. Efejera Ejofodomi		- COMPANY BOARD MEMBER
+10. Onome Ejofodomi             - COMPANY BOARD MEMBER
+11. Ochamuke Ejofodomi
+12. Godswill Ofualagba
+13. Matthew Agholor
+14. Lovetta Agholor
+15. Dr. Jason M. Zara
+16. Dr. Vensa Zderic
+17. Dr. Murray Loew
+18. Dr. Ahmed Jendoubi
+19. Dr. Mohamed Chouikha
+20. Dr. Gary Harris
+21. Profesor Harry Keeling
+22. Dr. Lucky Ejofodomi
+23. Tojake Ejofodomi		- COMPANY BOARD MEMBER
+24. Omafume Ejofodomi	
+25. Rukeme Ejofodomi		
+26. Mrs. Jasesola Ejofodomi
+27  Sylvester Ejofodomi
+28. Mr. Jackson Ukwaide
+29. Akin Ejofodomi
+30. Dr. C. J. Kim
+31. Onome Omiyi
+32. Isi Omiyi
+33. Kome Odu
+34. Ajaire Odu
+35. Dr. Anderson
+36. Engineer Esosa Ehanire
+
+
+#1. GODSWILL OFUALAGBA C.E.O. SWILLAS ENERGY LIMITED.
+#2. DR. MICHAEL OLAWUYI
+#3. DR. DAMILOLA SUNDAY OLAWUYI
+#4. ENGINEER DEBORAH OLAWUYI
+#5. ENGINEER JOSHUA OLAWUYI
+#6. ENGINEER JOSEPH OLAWUYI
+#7. ENGINEER ONOME EJOFODOMI
+#8. ENGINEER EFEJERA EJOFODOMI
+#9. ENGINEER FRANCIS OLAWUYI
+#10. DR. MATTHEW OLAWUYI
+#11. ENGINEER ENOCH O. EJOFODOMI
+#12. OCHAMUKE EJOFODOMI
+#13. ENGINEER ONOME OMIYI
+#14. MS. KOME ODU
+#15. MR. KAYODE ADEDIPE
+#16. MR. OMAFUME EJOFODOMI
+#17. MR. NICHOLAS MONYENYE
+#18. ENGINEER AYO ADEGITE
+#19. ENGINEER ESOSA EHANIRE
+#20. Ms. NANAYE INOKOBA
+#21. Ms. YINKA OLAREWAJU-ALO
+#22. Ms. ERKINAY ABLIZ
+#23. Ms. FAEZEH RAZOUYAN
+#24. MRS. TEVUKE EJOFODOMI
+#25. MR.ONORIODE AGGREH
+#26. MS. NDIDI IKEMEFUNA
+#27. MS. ENAJITE AGGREH
+#28. DR. ESTHER OLAWUYI
+#29  MS. ISI OMIYI
+#30. DR. JASON ZARA
+#31. DR. VESNA ZDERIC
+#32. DR. AHMED JENDOUBI
+#33. DR. MOHAMMED CHOUIKHA
+#34. MS. SHANI ROSS
+
